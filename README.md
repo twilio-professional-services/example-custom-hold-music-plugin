@@ -47,10 +47,12 @@ From the commandline run the following. Be sure to change the value of the `chan
 twilio flex:plugins:deploy --major --changelog "Notes for this version" --description "Functionality of the plugin"
 ```
 
-After the deployment you can release the plugin by running the following commandline instructions.
+**Release code to Flex** in one of two ways:
+
+1. CLI - After the deployment you can release the plugin by running the following commandline instructions.
 
 ```
 twilio flex:plugins:release --plugin plugin-custom-hold-music@1.0.0 --name "Initial deployment" --description "The initial deployment of the custom hold music plugin"
 ```
 
-Or, you can use the Flex Plugins Dashboard as described here: https://www.twilio.com/docs/flex/developer/plugins/dashboard
+2. Use the **Flex Plugins Dashboard** as described here: https://www.twilio.com/docs/flex/developer/plugins/dashboard
