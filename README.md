@@ -9,7 +9,7 @@ This plugin uses the new Flex Plugins CLI and React version 16.13.1. You will ne
 - **Twilio CLI** - You'll need the latest version of the Twilio CLI.
   - Instructions for installing or updating the Twilio CLI for your specific Operating System can be found here: 
     - https://www.twilio.com/docs/twilio-cli/quickstart#install-twilio-cli
-- **Flex Plugins CLI** - Install or upgrade to the latest version of the Flex Plugins CLI, instrutions here: https://www.twilio.com/docs/flex/developer/plugins/cli/install
+- **Flex Plugins CLI** - Install or upgrade to the latest version of the Flex Plugins CLI, instrutions here:   - https://www.twilio.com/docs/flex/developer/plugins/cli/install
 - **Flex React** version set to 16.13.1
   - Instructions: https://www.twilio.com/docs/flex/developer/plugins/react-versions
 
