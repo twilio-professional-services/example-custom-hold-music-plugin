@@ -30,7 +30,7 @@ export default {
 
 From commandline run:
 ```
-npm install
+UNBUNDLED_REACT=true npm install
 ```
 
 When that finishes installing run
