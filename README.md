@@ -29,8 +29,15 @@ export default {
 ## Run The Plugin Locally
 
 From commandline run:
+```
+npm install
+```
 
-`twilio flex:plugins:start`
+When that finishes installing run
+
+```
+twilio flex:plugins:start
+```
 
 Flex will start in your browser at `localhost:3000`
 
