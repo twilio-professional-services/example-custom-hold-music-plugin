@@ -46,9 +46,6 @@ Flex will start in your browser at `localhost:3000`
 
 ## Deploy & Release The Plugin to Twilio
 
-From command line run:
-https://www.twilio.com/docs/flex/developer/plugins/dashboard
-
 From the commandline run the following. Be sure to change the value of the `changelog` and `description` to match your use case. If this is the first time you've deployed this plugin you'll probably want to use the `--major` flag. Your options for version flags are `--major`, `--minor`, and `--patch`.
 
 ```
