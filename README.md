@@ -61,3 +61,6 @@ twilio flex:plugins:release --plugin plugin-custom-hold-music@1.0.0 --name "Init
 ```
 
 2. Use the **Flex Plugins Dashboard** as described here: https://www.twilio.com/docs/flex/developer/plugins/dashboard
+
+❗️If you run into any problems, full instructions for deploy and Release from the CLI can be found here: https://www.twilio.com/docs/flex/developer/plugins/cli/deploy-and-release
+
