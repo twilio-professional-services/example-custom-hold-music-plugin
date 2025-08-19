@@ -1,3 +1,7 @@
+# Notice - Legacy Code
+
+**This plugin is no longer maintained. An updated version of the plugin is available as part of the customizable [Flex Project Template](https://github.com/twilio-professional-services/flex-project-template), where it is an optional feature.**
+
 # Example Custom Hold Music Plugin
 
 You may deploy this plugin as-is to change the hold music of your Flex instance. Additionally, feel free to use the code in the `src/CustomHoldMusicPlugin.js` file to make changes to your own plugins if they are using hold music.
